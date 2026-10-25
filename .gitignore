@@ -1,0 +1,8 @@
+# Public repo: README and screenshots only. The code stays on this computer.
+/*
+!/README.md
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/real-wells.png
+!/docs/scoreboard.png
